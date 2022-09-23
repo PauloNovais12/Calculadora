@@ -1,0 +1,22 @@
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: gainsboro;
+    text-align: center;
+}
+button{
+    width: 25%;
+}
+div#clear{
+    text-align: right;
+}#num7,#num8,#num9,#divisao,#num6,#num5,#num4,#multiplica,#num3,#num2,#num1,#menos,
+#num0,#ponto,#igual,#soma{
+    width:25%;
+}#line1,#line2,#line3,#line4{
+    width: 100%;
+    display: inline-flex;
+}
+input{
+    text-align: right;
+}
+
